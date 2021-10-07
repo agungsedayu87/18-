@@ -1,0 +1,1255 @@
+{
+  "categories": [
+    {
+      "name": "Nasional Vision+",
+      "channels": [
+        {
+          "name": "01.RCTI Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "02.SCTV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "03.Indosiar Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "04.RTV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "05.NET. TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "06.ANTV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "07.Trans 7 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "08.MNC TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "09.Trans TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "10.Global TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "11.TVRI NASIONAL Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "12.Bali TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "13.Jak TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "14.JTV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "15.Bandung TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+	{
+      "name": "Nasional",
+      "channels": [
+        {
+          "name": "TVRI",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-6441",
+          
+        },
+		{
+          "name": "TVRI",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-tvri",
+          
+        },
+		{
+          "name": "TVRI",
+          "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8",
+          
+        },
+		{
+          "name": "TRANS TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-733",
+          
+        },
+		{
+          "name": "TRANS TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-transtv",
+          
+        },
+        {
+          "name": "ANTV",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8",
+          
+        },
+		{
+          "name": "ANTV",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s07/index1.m3u8",
+          
+        },
+        {
+          "name": "ANTV",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8",
+          
+        },
+        {
+          "name": "Indosiar",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-205",
+          
+        },
+		{
+          "name": "Indosiar",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprekmpd.m3u8?channel=indosiar",
+          
+        },
+		{
+          "name": "Indosiar",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8",
+          
+        },
+		{
+          "name": "Indosiar",
+          "stream_url": "http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/36",
+          
+        },
+        {
+          "name": "RCTI",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-665",
+          
+        },
+		{
+          "name": "RCTI",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8",
+          
+        },
+        {
+          "name": "MNCTV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-870",
+          
+        },
+        {
+          "name": "MNCTV",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8",
+          
+        },
+        {
+          "name": "SCTV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-sctv",
+          
+        },
+		{
+          "name": "SCTV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-204",
+          
+        },
+        {
+          "name": "SCTV",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8",
+          
+        },
+        {
+          "name": "Metro TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-metrotv ",
+          
+        },
+		{
+          "name": "Metro TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-777",
+          
+        },
+		{
+          "name": "Metro TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8",
+          
+        },
+        {
+          "name": "TV One",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8",
+          
+        },
+        {
+          "name": "TV One",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8",
+          
+        },
+        {
+          "name": "Trans 7",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-734",
+          
+        },
+		{
+          "name": "Trans 7",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8",
+          
+        },
+		{
+          "name": "GTV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-778",
+          
+        },
+		{
+          "name": "GTV",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8",
+          
+        },
+		{
+          "name": "NET TV",
+          "stream_url": "https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8",
+          
+        },{
+          "name": "NET TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-875",
+          
+        },
+		{
+          "name": "KOMPAS TV",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-kompastv",
+          
+        },
+		{
+          "name": "INEWS",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-5409",
+          
+        },
+		{
+          "name": "O CHANNEL",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-206",
+          
+        }
+      ]
+    },
+	{
+	 "name": "Movies Vision+",
+	 "channels": [
+		{
+          "name": "Fox Action Movies Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Channel Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Crime Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Life Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "Fox Family Movies Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "Fox Movies Premium Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "HBO Vision+",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Cinemax Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Family Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Hits Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Signature Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+	{
+	 "name": "Film Vision+",
+	 "channels": [
+        {
+          "name": "Celestial Classic [CCM] Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Celestial Movie Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Cinema World Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Hits Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Hits Movies Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "Thrill Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "tvN Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "tvN Movies Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+		{
+          "name": "Zee Bioskop Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+	  ]
+	},
+    {
+      "name": "Hiburan Vision+",
+      "channels": [
+
+        {
+          "name": "AXN Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "FMN Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Jiangsu TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Hunan TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Shanghai Dragon TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Xingkong TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Anhui TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "KIX Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Life&Style Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "LifeTime Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNCInfotainment Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Channel V Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Music Channel Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNC Entertainment Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNCShop Signature Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNCShop Super Sale Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "OK TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Sony One Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Star Chinese Legend Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Star Chinese Movie Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Vision Prime Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Warner TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+    {
+      "name": "Anak-Anak Vision+",
+      "channels": [
+        {
+          "name": "Animax Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Baby TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Boomerang Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Cartoon Network Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "CBeebies Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Disney Channel Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Disney Junior [HD] Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Kids TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Miao Mi Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Nick Jr. Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Nickelodeon Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+    {
+      "name": "Edukasi Vision+",
+      "channels": [
+        {
+          "name": "Animal Planet Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Asian Food Network Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "BBC Earth [HD] Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "BeSmart Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "CGTN Documentary Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Crime Investigation Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Discovery Channel Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "HGTV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "History Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Nat Geo People Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Nat Geo Wild Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "National Geographic Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TLC Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+    {
+      "name": "Religi Vision+",
+      "channels": [
+        {
+          "name": "Al Quran Al Kareem Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "DAAI TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "EWTN Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Life Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Muslim TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Reformed 21 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TV9 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Tawaf TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TV Muhammadiyah Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+    {
+      "name": "Berita Vision+",
+      "channels": [
+        {
+          "name": "ABC Australia Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Al Jazeera Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Arirang Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "BBC World News Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "BeritaSatu Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Bloomberg Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "CGTN V+ Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Channel News Asia Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "CNBC Indonesia Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "CNN International Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "DW Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "EuroNews Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "France24 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "FOX News Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "IDX Channel Vision+",
+          "stream_url": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "iNews Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Kompas TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Metro TV Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNC News Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "SEA Today Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TV5 Monde Asie Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TRT Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "NHK World Japan Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "NHK World Premium Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "RT ENGLISH Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "TV One Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        }
+      ]
+    },
+    {
+      "name": "Olahraga Vision+",
+      "channels": [
+        {
+          "name": "beIN Sports 1 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "beIN Sports 2 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "champion tv 1",
+          "stream_url": "http://gpc.my.id/vidio/champion-tv-1.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "champion tv 2",
+          "stream_url": "http://gpc.my.id/vidio/champion-tv-2.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Fight Sports Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Sports 1 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxSport-Siji/sa_dash_vmx/FoxSport-Siji.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Sports 2 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Fox Sports 3 Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "MNC Sports Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"
+        },
+        {
+          "name": "Liga BRI 1 SOCCER CHANNEL Vision+",
+          "stream_url": "https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)",
+          "drm_name": "mncnow"   
+        },
+        {
+          "name": "Liga BRI 1 useesports",
+          "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Liga BRI 1 useesports2",
+          "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0"
+        }
+      ]
+    },
+    {
+      "name": "Alternative MAXSTREAM+VIDIO",
+      "channels": [
+        {
+          "name": "Dunia Games",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "KompasTv",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Magna TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Hi Indo",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "MTA TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "kplus",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "tech storm",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "METRO TV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "RTV",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Bali Tv",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Ruang Terampil",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Sea Today",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "The Indonesia Channel",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Tv Edukasi",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Usee Photo",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Usee Prime",
+          "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "tvri",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-tvri"
+        },
+        {
+          "name": "indosiar",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-205"
+        },
+        {
+          "name": "transtv",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-733"
+        },
+        {
+          "name": "mnc",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-870"
+        },
+        {
+          "name": "rcti",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-665"
+        },
+        {
+          "name": "sctv",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=usee-sctv"
+        },
+        {
+          "name": "gtv",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-778"
+        },
+        {
+          "name": "net-tv",
+          "stream_url": "http://gpc.my.id/vidio/net-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "trans7",
+          "stream_url": "http://gpc.my.id/vidio/trans7.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "berita satu",
+          "stream_url": "http://gpc.my.id/vidio/beritasatu.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "metro tv",
+          "stream_url": "http://gpc.my.id/vidio/metro-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "kompas tv",
+          "stream_url": "http://gpc.my.id/vidio/kompas-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "inews",
+          "stream_url": "http://gpc.my.id/vidio/inews.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "jaktv",
+          "stream_url": "http://gpc.my.id/vidio/jaktv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ochannel",
+          "stream_url": "https://home-tv.web.id/RHS/tukang_oprek.m3u8?channel=vidio-206"
+        },
+        {
+          "name": "rtv",
+          "stream_url": "http://gpc.my.id/vidio/rtv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ajwa tv",
+          "stream_url": "http://gpc.my.id/vidio/ajwa-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "mytv",
+          "stream_url": "http://gpc.my.id/vidio/mytv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "nusantara tv",
+          "stream_url": "http://gpc.my.id/vidio/nusantara-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "daaitv",
+          "stream_url": "http://gpc.my.id/vidio/daai-tv.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "tvn",
+          "stream_url": "http://gpc.my.id/vidio/tvn.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "zee bioskop",
+          "stream_url": "http://gpc.my.id/vidio/zee-bioskop.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "citra bioskop",
+          "stream_url": "http://gpc.my.id/vidio/citra-bioskop.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "citra drama",
+          "stream_url": "http://gpc.my.id/vidio/citra-drama.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "citra dangdut",
+          "stream_url": "http://gpc.my.id/vidio/citra-dangdut.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "citra entertainment",
+          "stream_url": "http://gpc.my.id/vidio/citra-entertainment.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "zing",
+          "stream_url": "http://gpc.my.id/vidio/zing.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "musica",
+          "stream_url": "http://gpc.my.id/vidio/musica.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "sea today",
+          "stream_url": "http://gpc.my.id/vidio/sea-today.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "dw english",
+          "stream_url": "http://gpc.my.id/vidio/dw-english.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "hip hip horee",
+          "stream_url": "http://gpc.my.id/vidio/hip-hip-horee.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "zoomoo",
+          "stream_url": "http://gpc.my.id/vidio/zoomoo.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "da vinci",
+          "stream_url": "http://gpc.my.id/vidio/da-vinci.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "horee",
+          "stream_url": "http://gpc.my.id/vidio/horee.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "smithsonian",
+          "stream_url": "http://gpc.my.id/vidio/smithsonian.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "tv edukasi",
+          "stream_url": "http://gpc.my.id/vidio/tv-edukasi.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "love nature",
+          "stream_url": "http://gpc.my.id/vidio/love-nature.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Yo! MTV (720p)",
+          "stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        }
+      ]
+    },
+    {
+      "name": "Astro Go",
+      "channels": [
+        {
+          "name": "ASTRO AEC",
+          "stream_url": "http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO AWANI",
+          "stream_url": "http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO CERIA",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO CITRA",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO OASIS",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO PRIMA",
+          "stream_url": "http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO RIA",
+          "stream_url": "http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO AOD",
+          "stream_url": "http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO HELLO",
+          "stream_url": "http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Iqiyi",
+          "stream_url": "http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Shuangxing",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Quanjia",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Xiaotaiyang",
+          "stream_url": "http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Xinhe",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "ASTRO Bollyone",
+          "stream_url": "http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Berita RTM",
+          "stream_url": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Okey",
+          "stream_url": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "RTM Sports FHD",
+          "stream_url": "http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Rtm sukan",
+          "stream_url": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Astro Arena",
+          "stream_url": "http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "foxsports1_pye",
+          "stream_url": "http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "foxsports2_pye",
+          "stream_url": "http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "One",
+          "stream_url": "http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "BBC LIFESTYLE",
+          "stream_url": "http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Bernama",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "KBS World",
+          "stream_url": "http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "HGTV GO",
+          "stream_url": "http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Oh!k",
+          "stream_url": "http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Drama Sangat",
+          "stream_url": "http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Naura",
+          "stream_url": "http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Suria",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV Alhijrah",
+          "stream_url": "http://50.7.161.82:8278/streams/d/alhijrah_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV1",
+          "stream_url": "http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV2",
+          "stream_url": "http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV3",
+          "stream_url": "http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV6",
+          "stream_url": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV7",
+          "stream_url": "http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV8",
+          "stream_url": "http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TV9",
+          "stream_url": "http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "TVikim",
+          "stream_url": "http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "mekkah tv",
+          "stream_url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        },
+        {
+          "name": "Madina TV",
+          "stream_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8|http-user-agent=WeChatMusic 621216514(android 7.0)"
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_name": "mncnow",
+      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
+	}
+  ]
+ }
